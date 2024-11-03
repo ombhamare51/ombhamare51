@@ -9,10 +9,19 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding animation" />
 
 ###
 
+### About Me
+- 👨‍🎓 I'm a Computer Engineering student passionate about coding and technology.
+- 💻 Skills: HTML, CSS, Java, JavaScript, C, C++
+- 🌐 [LinkedIn](https://www.linkedin.com/in/%C3%B8m-bh%C4%85m%C3%A5%C5%95%C4%99-48aa001a9/)
+- 📫 Contact: ombhamare51@gmail.com | 📞 7020582099
+
+###
+
+### 🔧 Technologies & Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
@@ -29,18 +38,14 @@
 
 ###
 
+### 🔗 Socials
 <div align="left">
   <a href="https://www.linkedin.com/in/%C3%B8m-bh%C4%85m%C3%A5%C5%95%C4%99-48aa001a9/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="mailto:ombhamare@gmaol.com">
+  <a href="mailto:ombhamare51@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <span>📞 7020582099</span>
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
