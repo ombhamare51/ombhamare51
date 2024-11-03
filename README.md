@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Om Bhamare, and I'm a Full Stack Devoloper In Java .</h2>
+<h2 align="left">Hi 👋! I am Om Bhamare.</h2>
 
 ###
 
