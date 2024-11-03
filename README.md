@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I am Øm Bhąmåŕę.</h2>
+<h2 align="center">Hi 👋! I am Om Bhamare.</h2>
 
 ###
 
@@ -11,7 +11,7 @@
 
 ### About Me
 - 👨‍🎓 I'm a Computer Engineering student passionate about coding and technology.
-- 💻 Skills: HTML, CSS, Java, JavaScript, C, C++
+- 💻 Skills: HTML, CSS, Java, JavaScript, C, C++, SQL, PostgreSQL
 - 🌐 [LinkedIn](https://www.linkedin.com/in/%C3%B8m-bh%C4%85m%C3%A5%C5%95%C4%99-48aa001a9/)
 - 📫 Contact: ombhamare51@gmail.com | 📞 7020582099
 
@@ -30,6 +30,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="sql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
 </div>
 
 ###
