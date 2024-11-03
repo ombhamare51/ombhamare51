@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I am Om Bhamare.</h2>
+<h2 align="center">Hi 👋! I am Øm Bhąmåŕę.</h2>
 
 ###
 
