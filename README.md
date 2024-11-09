@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋! I am Øm Bhąmåŕę.</h1>
 
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWRndW90ZGRsd3g2aGY3dzNqZXNwOHl4dnYzc2p0MWd0a2ZhOHYxeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200.webp" alt="coding gif" />
-</div>
-
 ###
 
 <div align="center">
@@ -12,6 +8,7 @@
 </div>
 
 ###
+<img align="right" height="220" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWRndW90ZGRsd3g2aGY3dzNqZXNwOHl4dnYzc2p0MWd0a2ZhOHYxeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200.webp" />
 
 ### About Me
 - 👨‍🎓 I'm a Computer Engineering student passionate about coding and technology.
