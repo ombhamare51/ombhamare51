@@ -42,12 +42,18 @@
 ### 🔗 Socials
 <div align="left">
   <a href="https://www.linkedin.com/in/%C3%B8m-bh%C4%85m%C3%A5%C5%95%C4%99-48aa001a9/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-circle&logoWidth=24&labelColor=0077B5&color=white&label=" height="32" alt="LinkedIn logo" />
   </a>
   <a href="mailto:ombhamare51@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat-circle&logoWidth=24&labelColor=D14836&color=white&label=" height="32" alt="Gmail logo" />
   </a>
   <a href="https://www.hackerrank.com/@ombhamare51" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo" />
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white&style=flat-circle&logoWidth=24&labelColor=2EC866&color=white&label=" height="32" alt="HackerRank logo" />
+  </a>
+  <a href="https://github.com/osb15" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-circle&logoWidth=24&labelColor=181717&color=white&label=" height="32" alt="GitHub logo" />
   </a>
 </div>
+
+
+
