@@ -12,7 +12,7 @@
 
 ### About Me
 - 👨‍🎓 I'm a Computer Engineering student passionate about coding and technology.
-- 💻 Skills: HTML, CSS, Java, JavaScript, C, C++, SQL, PostgreSQL
+- 💻 Skills: HTML, CSS, Java, JavaScript, C, C++, SQL, PostgreSQL, Postman, Spring Boot
 - 🌐 [LinkedIn](https://www.linkedin.com/in/%C3%B8m-bh%C4%85m%C3%A5%C5%95%C4%99-48aa001a9/)
 - 📫 Contact: ombhamare51@gmail.com | 📞 7020582099
 
@@ -34,7 +34,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="sql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="springboot logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" alt="postman logo" />
 </div>
 
 ###
@@ -54,8 +58,3 @@
     <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-circle&logoWidth=20&labelColor=181717&color=white&label=" height="28" alt="GitHub logo" />
   </a>
 </div>
-
-
-
-
-
