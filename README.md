@@ -12,7 +12,7 @@
 
 ### About Me
 - 👨‍🎓 I'm a Computer Engineering student passionate about coding and technology.
-- 💻 Skills: HTML, CSS, Java, JavaScript, C, C++, SQL, PostgreSQL, Postman, Spring Boot
+- 💻 Skills: HTML, CSS, Java, JavaScript, C, C++, SQL, Postman, Spring Boot, Hibernate
 - 🌐 [LinkedIn](https://www.linkedin.com/in/%C3%B8m-bh%C4%85m%C3%A5%C5%95%C4%99-48aa001a9/)
 - 📫 Contact: ombhamare51@gmail.com | 📞 7020582099
 
@@ -34,11 +34,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="sql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="springboot logo" />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" alt="postman logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" height="30" alt="hibernate logo" />
 </div>
 
 ###
