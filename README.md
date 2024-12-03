@@ -51,7 +51,7 @@
   <a href="mailto:ombhamare51@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat-circle&logoWidth=20&labelColor=D14836&color=white&label=" height="28" alt="Gmail logo" />
   </a>
-  <a href="https://www.hackerrank.com/@ombhamare51" target="_blank">
+  <a href="https://www.hackerrank.com/profile/ombhamare51" target="_blank">
     <img src="https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white&style=flat-circle&logoWidth=20&labelColor=2EC866&color=white&label=" height="28" alt="HackerRank logo" />
   </a>
   <a href="https://github.com/osb15" target="_blank">
