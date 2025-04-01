@@ -5,15 +5,18 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/ombhamare51/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/ombhamare51" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="HackerRank logo"  />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=osb15.osb15&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ombhamare51.ombhamare51&"  />
 </div>
 
 ###
@@ -26,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Om Sanjay Bhamare from India.<br><br>- 🔭 I’m working as a Full-Stack Developer<br>- 📚 I'm currently learning Java and Spring Boot<br>- ⚡ In my free time, I explore new tech stacks and contribute to open-source projects.</p>
+<p align="left">I'm Om Sanjay Bhamare from India.<br><br>- 🔭 I’m working as a Full-Stack Developer<br>- 📚 I'm currently learning Java and Spring Boot<br>- ⚡ In my free time, I explore new tech stacks and contribute to open-source projects.<br>- 📧 Contact me at: <a href="mailto:ombhamare51@gmail.com">ombhamare51@gmail.com</a></p>
 
 ###
 
@@ -50,14 +53,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
 </div>
 
-### 📊 My GitHub Stats  
-<table>
-    <tr>
-        <td valign="top" width="50%">
-            <img src="https://github-readme-stats.vercel.app/api?username=ombhamare51&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-        </td>
-        <td valign="top" width="50%">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ombhamare51&hide_border=true&layout=compact" align="left" style="width: 100%" />
-        </td>
-    </tr>
-</table>
+###
+
+<h3 align="left">🔥 My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ombhamare51&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
