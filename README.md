@@ -50,14 +50,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
+### 📊 My GitHub Stats  
+<table>
+    <tr>
+        <td valign="top" width="50%">
+            <img src="https://github-readme-stats.vercel.app/api?username=VaradM-17&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+        </td>
+        <td valign="top" width="50%">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaradM-17&hide_border=true&layout=compact" align="left" style="width: 100%" />
+        </td>
+    </tr>
+</table>
 
-<h3 align="left">🔥   My Stats :</h3>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=osb15&theme=dark&hide_border=false" height="220" alt="streak graph" />
-</div>
-
-###
